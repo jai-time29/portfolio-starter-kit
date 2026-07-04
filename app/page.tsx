@@ -7,7 +7,7 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`I'm Dhatrik Jaikritha I'm a pre-final year developer proficient in C/C++/python/SQL
+        {`I'm Dhatrik Jaikritha, a pre-final year developer proficient in C/C++/python/SQL
         dedicated to solving complex technical challenges and scaling machine learning projects. 
         Beyond just training models, I focus on the engineering required to make
         them fast,reliable, and scalable in production environments. 
