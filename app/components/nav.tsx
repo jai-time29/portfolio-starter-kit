@@ -16,7 +16,7 @@ const navItems = {
   'mailto:b24cm1017@iitj.ac.in': { // Note: Fixed the address to include '@' instead of '.' based on standard IIT format
     name: 'Email',
   },
-  'tel:+1234567890': { // Replace with your actual phone number
+  'tel:+91 8897175998': { // Replace with your actual phone number
     name: 'Phone',
   }
 }
