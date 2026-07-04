@@ -10,10 +10,15 @@ const navItems = {
   'https://leetcode.com/u/jaisai9/': {
     name: 'Leetcode',
   },
-  'https://www.linkedin.com/in/jaikritha29/' : {
+  'https://www.linkedin.com/in/jaikritha29/': {
     name: 'LinkedIn',
+  },
+  'mailto:b24cm1017@iitj.ac.in': { // Note: Fixed the address to include '@' instead of '.' based on standard IIT format
+    name: 'Email',
+  },
+  'tel:+1234567890': { // Replace with your actual phone number
+    name: 'Phone',
   }
-
 }
 
 export function Navbar() {
