@@ -11,8 +11,11 @@ const navItems = {
     name: 'Leetcode',
   },
   'https://www.linkedin.com/in/jaikritha29/' : {
-    name: 'LinkedIn'
-  }
+    name: 'LinkedIn',
+  },
+  '/blog':{
+    name: ;Certificates & Credentials',
+}
 }
 
 export function Navbar() {
