@@ -5,11 +5,14 @@ const navItems = {
     name: 'home',
   },
   '/blog': {
-    name: 'blog',
+    name: 'Projects',
   },
-  'https://vercel.com/templates/next.js/portfolio-starter-kit': {
-    name: 'deploy',
+  'https://leetcode.com/u/jaisai9/': {
+    name: 'Leetcode',
   },
+  'https://www.linkedin.com/in/jaikritha29/' : {
+    name: 'LinkedIn'
+  }
 }
 
 export function Navbar() {
