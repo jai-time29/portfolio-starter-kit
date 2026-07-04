@@ -14,7 +14,7 @@ const navItems = {
     name: 'LinkedIn',
   },
   '/blog':{
-    name: ;Certificates & Credentials',
+    name: 'Certificates & Credentials',
 }
 }
 
