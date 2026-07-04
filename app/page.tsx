@@ -8,7 +8,7 @@ export default function Page() {
       </h1>
       <div className="mb-8 mt-1 text-sm text-neutral-500 dark:text-neutral-400 font-medium leading-relaxed">
         <p>Pre-final Year Student</p>
-        <p>Indian Institute of Technology, Jodhpur</p>
+        <p>Artificial Intelligence and Data Science</p>
       </div>
 
       <div className="my-8">
