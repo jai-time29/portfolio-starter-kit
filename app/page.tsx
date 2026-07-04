@@ -3,16 +3,14 @@ import { BlogPosts } from 'app/components/posts'
 export default function Page() {
   return (
     <section>
-      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
+      <h1 className="text-3xl font-semibold tracking-tighter">
+        Dhatrik Jaikritha
       </h1>
-      <p className="mb-4">
-        {`I'm Dhatrik Jaikritha, a pre-final year developer proficient in C/C++/python/SQL
-        dedicated to solving complex technical challenges and scaling machine learning projects. 
-        Beyond just training models, I focus on the engineering required to make
-        them fast,reliable, and scalable in production environments. 
-        I’m always looking forward for the next big projects the tech stack to work on`}
-      </p>
+      <div className="mb-8 mt-1 text-sm text-neutral-500 dark:text-neutral-400 font-medium leading-relaxed">
+        <p>Pre-final Year Student</p>
+        <p>Indian Institute of Technology, Jodhpur</p>
+      </div>
+
       <div className="my-8">
         <BlogPosts />
       </div>
