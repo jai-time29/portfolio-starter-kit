@@ -3,7 +3,7 @@ function ArrowIcon() {
     <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://w3.org">
       <path d="M2.07102 11.3494L0.963047 10.2415L9.20173 2.00274H2.83252V0.4375H11.5625V9.16748H9.99726V2.79827L2.07102 11.3494Z" fill="currentColor"/>
     </svg>
-  )
+  ) 
 } 
 
 export default function Footer() {
