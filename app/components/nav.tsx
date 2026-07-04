@@ -12,10 +12,8 @@ const navItems = {
   },
   'https://www.linkedin.com/in/jaikritha29/' : {
     name: 'LinkedIn',
-  },
-  '/blog':{
-    name: 'Certificates & Credentials',
-}
+  }
+
 }
 
 export function Navbar() {
